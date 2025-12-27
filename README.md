@@ -1,7 +1,7 @@
 # coderPython
 
 # 💫 About Me:
-🔭 I’m currently working as Backend Developer.<br>🌱Always learning and evolving through new challenges.
+🔭 I’m currently focused on Backend Developer.<br>🌱Always learning and evolving through new challenges.
 
 
 # 💻 Tech Stack:
